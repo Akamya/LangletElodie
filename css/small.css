@@ -26,6 +26,10 @@ body {
   grid-column: span 10;
 }
 
+.col-8-small {
+  grid-column: span 8;
+}
+
 .col-4-small {
   grid-column: span 4;
 }
@@ -54,7 +58,7 @@ header {
 
 .nav ul {
   gap: 2em;
-  font-size: 1em;
+  font-size: 0.8em;
   text-align: right;
 }
 
